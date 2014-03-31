@@ -1,0 +1,9 @@
+{
+  "name": "ionic-mary-poppins",
+  "version": "0.0.0",
+  "private": "true",
+  "dependencies": {
+    "poppins-check-commit": "^0.2.0",
+    "poppins-pr-checklist": "^0.2.2"
+  }
+}
